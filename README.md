@@ -2,6 +2,28 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Git Commands
+
+## `check origin`
+
+git remote -v
+
+## `add new origin`
+
+git remote set-url origin https://github.com/aryan-mishra1404/Testing.git
+
+## `add branch`
+
+git checkout -b [branchName]
+
+## `switch branch`
+
+git checkout [branchName]
+
+## `add branch`
+
+git checkout -b [branchName]
+
 ## Available Scripts
 
 In the project directory, you can run:
