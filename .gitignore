@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+# files
+
 # testing
 /coverage
 
@@ -21,3 +23,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+test.txt
+
+CONTRIBUTING .md
+
+README.md

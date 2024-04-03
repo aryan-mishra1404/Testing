@@ -20,7 +20,7 @@ git checkout -b [branchName]
 
 git checkout [branchName]
 
-## `add branch`
+## ``
 
 git checkout -b [branchName]
 
